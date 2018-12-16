@@ -1,0 +1,11 @@
+En un cruce de caminos en X se encontraron 2 tribus aparentemente iguales,
+pero unos solo mienten y los otros solo dicen la verdad.
+Tu alcanzaste a un rezagado en el cruce y quieres saber
+para donde se fue cada tribu, pero solo puedes hacerle 1 pregunta.
+---------------------------------------------------------------------------------------------
+En un cuarto hay 3 focos normales. Estamos en otro cuarto donde tenemos 3 switches, cada uno de un foco.
+Queremos saber cual apaga cada foco, pero no hay ventanas, ni radiocomunicaciones ni nada.
+Podemos ir una vez al otro cuarto pero ya no regresar.
+Como resolver esto?
+---------------------------------------------------------------------------------------------
+Cuantos anagramas puedo sacar de un string con N caracteres ?
